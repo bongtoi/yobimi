@@ -1,0 +1,10 @@
+[{"qid": 1,"imgQuestion": "", "txtQuestion": "Is Susan _____ home?", "audioQuestion": "", "answers": ["A. in", "B. at", "C. on", "D. under"], "cat": 1, "rightAnswer": 1},
+  {"qid": 2,"imgQuestion": "", "txtQuestion": "\"Do the children go to school every day?\"\n\"_____\"", "audioQuestion": "", "answers": ["A. yes, they go.", "B. yes, they do.", "C. they go.", "D. no, they don't go."], "cat": 1, "rightAnswer": 1},
+  {"qid": 3,"imgQuestion": "", "txtQuestion": "What _____ now?", "audioQuestion": "", "answers": ["A. is the time", "B. does the time", "C. is time", "D. is it"], "cat": 1, "rightAnswer": 0},
+  {"qid": 4,"imgQuestion": "", "txtQuestion": "They always go to school _____ bicycle.", "audioQuestion": "", "answers": ["A. with", "B. in", "C. on", "D. by"], "cat": 1, "rightAnswer": 3},
+  {"qid": 5,"imgQuestion": "", "txtQuestion": "What color _____ his new car?", "audioQuestion": "", "answers": ["A. have", "B. is", "C. does", "D. are"], "cat": 1, "rightAnswer": 1},
+  {"qid": 6,"imgQuestion": "", "txtQuestion": "Are there many students in Room 12?\n- \"_____\"", "audioQuestion": "", "answers": ["A. yes there are.", "B. yes, they are.", "C. some are.", "D. no they aren't."], "cat": 1, "rightAnswer": 0},
+  {"qid": 7,"imgQuestion": "", "txtQuestion": "You should do your _____ before going to class.", "audioQuestion": "", "answers": ["A. home work", "B. homework", "C. homeworks", "D. housework"], "cat": 1, "rightAnswer": 1},
+  {"qid": 8,"imgQuestion": "", "txtQuestion": "Mr. Pike _____ us English.", "audioQuestion": "", "answers": ["A. teach", "B. teaches", "C. teaching", "D. to teach"], "cat": 1, "rightAnswer": 1},
+  {"qid": 9,"imgQuestion": "", "txtQuestion": "Tom and _____ are going to the birthday party together.", "audioQuestion": "", "answers": ["A. i", "B. me", "C. my", "D. mine"], "cat": 1, "rightAnswer": 0},
+  {"qid": 10,"imgQuestion": "", "txtQuestion": "Our English lessons are _____ long.", "audioQuestion": "", "answers": ["A. many", "B. much", "C. a lot of", "D. very"], "cat": 1, "rightAnswer": 3}]

@@ -1,0 +1,63 @@
+[
+{"qid": 1,
+"imgQuestion": "", 
+"txtQuestion": "Is Susan _____ home?", 
+"audioQuestion": "", 
+"answers": ["A. in", "B. at", "C. on", "D. under"], 
+"cat": 1, 
+"rightAnswer": 1}
+
+
+
+
+
+
+{"qid": 2,"imgQuestion": "", "txtQuestion": "\"Do the children go to school every day?\"\n\"_____\"", "audioQuestion": "", "answers": ["A. yes, they go.", "B. yes, they do.", "C. they go.", "D. no, they don't go."], "cat": 1, "rightAnswer": 1}
+{"qid": 3,"imgQuestion": "", "txtQuestion": "What _____ now?", "audioQuestion": "", "answers": ["A. is the time", "B. does the time", "C. is time", "D. is it"], "cat": 1, "rightAnswer": 0}
+{"qid": 4,"imgQuestion": "", "txtQuestion": "They always go to school _____ bicycle.", "audioQuestion": "", "answers": ["A. with", "B. in", "C. on", "D. by"], "cat": 1, "rightAnswer": 3}
+{"qid": 5,"imgQuestion": "", "txtQuestion": "What color _____ his new car?", "audioQuestion": "", "answers": ["A. have", "B. is", "C. does", "D. are"], "cat": 1, "rightAnswer": 1}
+{"qid": 6,"imgQuestion": "", "txtQuestion": "Are there many students in Room 12?\n- \"_____\"", "audioQuestion": "", "answers": ["A. yes there are.", "B. yes, they are.", "C. some are.", "D. no they aren't."], "cat": 1, "rightAnswer": 0}
+{"qid": 7,"imgQuestion": "", "txtQuestion": "You should do your _____ before going to class.", "audioQuestion": "", "answers": ["A. home work", "B. homework", "C. homeworks", "D. housework"], "cat": 1, "rightAnswer": 1}
+{"qid": 8,"imgQuestion": "", "txtQuestion": "Mr. Pike _____ us English.", "audioQuestion": "", "answers": ["A. teach", "B. teaches", "C. teaching", "D. to teach"], "cat": 1, "rightAnswer": 1}
+{"qid": 9,"imgQuestion": "", "txtQuestion": "Tom and _____ are going to the birthday party together.", "audioQuestion": "", "answers": ["A. i", "B. me", "C. my", "D. mine"], "cat": 1, "rightAnswer": 0}
+{"qid": 10,"imgQuestion": "", "txtQuestion": "Our English lessons are _____ long.", "audioQuestion": "", "answers": ["A. many", "B. much", "C. a lot of", "D. very"], "cat": 1, "rightAnswer": 3}
+{"qid": 11,"imgQuestion": "", "txtQuestion": "Bangkok is _____ capital of Thailand.", "audioQuestion": "", "answers": ["A. a", "B. one", "C. the", "D. an"], "cat": 1, "rightAnswer": 2}
+{"qid": 12,"imgQuestion": "", "txtQuestion": "Are you free _____ Saturday?", "audioQuestion": "", "answers": ["A. on", "B. at", "C. in", "D. into"], "cat": 1, "rightAnswer": 0}
+{"qid": 13,"imgQuestion": "", "txtQuestion": "There are _____ girls in our class.", "audioQuestion": "", "answers": ["A. no", "B. not", "C. none", "D. none of"], "cat": 1, "rightAnswer": 0}
+{"qid": 14,"imgQuestion": "", "txtQuestion": "Let _____ go for a walk.", "audioQuestion": "", "answers": ["A. we", "B. us", "C. you", "D. our"], "cat": 1, "rightAnswer": 1}
+{"qid": 15,"imgQuestion": "", "txtQuestion": "What is your name?\n- _____ name is Linda.", "audioQuestion": "", "answers": ["A. your", "B. his", "C. my", "D. her"], "cat": 1, "rightAnswer": 2}
+{"qid": 16,"imgQuestion": "", "txtQuestion": "What's _____ name?\n- His name is Henry.", "audioQuestion": "", "answers": ["A. his", "B. her", "C. your", "D. my"], "cat": 1, "rightAnswer": 0}
+{"qid": 17,"imgQuestion": "", "txtQuestion": "I'm a pupil.\n- I'm a _____, too.", "audioQuestion": "", "answers": ["A. teacher", "B. pupil", "C. student", "D. doctor"], "cat": 1, "rightAnswer": 1}
+{"qid": 18,"imgQuestion": "", "txtQuestion": "Is this your pencil? No, it isn't. It is _____ pencil.", "audioQuestion": "", "answers": ["A. his", "B. my", "C. your", "D. hers"], "cat": 1, "rightAnswer": 0}
+{"qid": 19,"imgQuestion": "", "txtQuestion": "Are these your coats?\nYes they are _____", "audioQuestion": "", "answers": ["A. their coats", "B. ours", "C. our coats", "D. yours"], "cat": 1, "rightAnswer": 1}
+{"qid": 20,"imgQuestion": "", "txtQuestion": "Are your free _____ Friday evening?", "audioQuestion": "", "answers": ["A. in", "B. at", "C. on", "D. from"], "cat": 1, "rightAnswer": 2}
+{"qid": 21,"imgQuestion": "", "txtQuestion": "There are six pencils _____ the box.", "audioQuestion": "", "answers": ["A. in", "B. at", "C. on", "D. into"], "cat": 1, "rightAnswer": 0}
+{"qid": 22,"imgQuestion": "", "txtQuestion": "Where is your mother?\nShe's _____ the kitchen.", "audioQuestion": "", "answers": ["A. in", "B. on", "C. into", "D. at"], "cat": 1, "rightAnswer": 0}
+{"qid": 23,"imgQuestion": "", "txtQuestion": "How many pictures are there _____ the wall?", "audioQuestion": "", "answers": ["A. in", "B. on", "C. into", "D. at"], "cat": 1, "rightAnswer": 1}
+{"qid": 24,"imgQuestion": "", "txtQuestion": "Are you _____ Vietnam?\n- Yes, I am.", "audioQuestion": "", "answers": ["A. to", "B. on", "C. into", "D. from"], "cat": 1, "rightAnswer": 3}
+{"qid": 25,"imgQuestion": "", "txtQuestion": "I'm cleaning the floor. Can your help _____?", "audioQuestion": "", "answers": ["A. i", "B. me", "C. my", "D. mine"], "cat": 1, "rightAnswer": 1}
+{"qid": 26,"imgQuestion": "", "txtQuestion": "What are you doing? - _____ are planting some trees.", "audioQuestion": "", "answers": ["A. we", "B. us", "C. our", "D. ours"], "cat": 1, "rightAnswer": 0}
+{"qid": 27,"imgQuestion": "", "txtQuestion": "Mary is doing her homework and _____ brother is helping her.", "audioQuestion": "", "answers": ["A. she", "B. hers", "C. her", "D. she's"], "cat": 1, "rightAnswer": 2}
+{"qid": 28,"imgQuestion": "", "txtQuestion": "Jane's books are on the floor. Please, put _____ on the table.", "audioQuestion": "", "answers": ["A. they", "B. them", "C. their", "D. theirs"], "cat": 1, "rightAnswer": 1}
+{"qid": 29,"imgQuestion": "", "txtQuestion": "Please put this pencil in the box.\n- I'm putting _____ in the box.", "audioQuestion": "", "answers": ["A. it", "B. its", "C. them", "D. they"], "cat": 1, "rightAnswer": 0}
+{"qid": 30,"imgQuestion": "", "txtQuestion": "When's _____ birthday?", "audioQuestion": "", "answers": ["A. his", "B. he", "C. him", "D. he's"], "cat": 1, "rightAnswer": 0}
+{"qid": 31,"imgQuestion": "", "txtQuestion": "Whose bicycle is it? It's _____", "audioQuestion": "", "answers": ["A. he", "B. her", "C. hers", "D. she"], "cat": 1, "rightAnswer": 2}
+{"qid": 32,"imgQuestion": "", "txtQuestion": "How old is _____?", "audioQuestion": "", "answers": ["A. she", "B. her", "C. hers", "D. his"], "cat": 1, "rightAnswer": 0}
+{"qid": 33,"imgQuestion": "", "txtQuestion": "There are _____ eggs on the table.", "audioQuestion": "", "answers": ["A. some", "B. any", "C. many", "D. much"], "cat": 1, "rightAnswer": 0}
+{"qid": 34,"imgQuestion": "", "txtQuestion": "Is there _____ cheese on the table?", "audioQuestion": "", "answers": ["A. some", "B. any", "C. many", "D. much"], "cat": 1, "rightAnswer": 1}
+{"qid": 35,"imgQuestion": "", "txtQuestion": "How _____ cakes does she want?", "audioQuestion": "", "answers": ["A. some", "B. any", "C. many", "D. much"], "cat": 1, "rightAnswer": 2}
+{"qid": 36,"imgQuestion": "", "txtQuestion": "Peter doesn't want _____ eggs, but he wants some soup.", "audioQuestion": "", "answers": ["A. some", "B. any", "C. many", "D. much"], "cat": 1, "rightAnswer": 1}
+{"qid": 37,"imgQuestion": "", "txtQuestion": "There is _____ milk in the glass.", "audioQuestion": "", "answers": ["A. some", "B. any", "C. many", "D. much"], "cat": 1, "rightAnswer": 0}
+{"qid": 38,"imgQuestion": "", "txtQuestion": "How _____ meat do you want?", "audioQuestion": "", "answers": ["A. some", "B. any", "C. many", "D. much"], "cat": 1, "rightAnswer": 3}
+{"qid": 39,"imgQuestion": "", "txtQuestion": "There isn't _____ coffee in the cup.", "audioQuestion": "", "answers": ["A. some", "B. any", "C. many", "D. much"], "cat": 1, "rightAnswer": 1}
+{"qid": 40,"imgQuestion": "", "txtQuestion": "They want _____ coffee, but they don't want any bread.", "audioQuestion": "", "answers": ["A. some", "B. any", "C. many", "D. much"], "cat": 1, "rightAnswer": 0}
+{"qid": 41,"imgQuestion": "", "txtQuestion": "Is this your pencil? No, it isn't. It's _____ pencil.", "audioQuestion": "", "answers": ["A. my", "B. her", "C. our", "D. hers"], "cat": 1, "rightAnswer": 1}
+{"qid": 42,"imgQuestion": "", "txtQuestion": "_____ parents are workers.", "audioQuestion": "", "answers": ["A. we", "B. they", "C. our", "D. i"], "cat": 1, "rightAnswer": 2}
+{"qid": 43,"imgQuestion": "", "txtQuestion": "This is my new shirt. - Oh, _____ color is pretty.", "audioQuestion": "", "answers": ["A. it", "B. its", "C. their", "D. they"], "cat": 1, "rightAnswer": 1}
+{"qid": 44,"imgQuestion": "", "txtQuestion": "He is _____ engineer.", "audioQuestion": "", "answers": ["A. an", "B. a", "C. the", "D. no article"], "cat": 1, "rightAnswer": 0}
+{"qid": 45,"imgQuestion": "", "txtQuestion": "Your sister is a student and his sister is a student, _____", "audioQuestion": "", "answers": ["A. both", "B. also", "C. and", "D. too"], "cat": 1, "rightAnswer": 3}
+{"qid": 46,"imgQuestion": "", "txtQuestion": "My brother is 6.68 m _____", "audioQuestion": "", "answers": ["A. short", "B. tall", "C. taller", "D. shorter"], "cat": 1, "rightAnswer": 1}
+{"qid": 47,"imgQuestion": "", "txtQuestion": "My mother is 32 and my father is 43. My mother is younger _____ my\nfather.", "audioQuestion": "", "answers": ["A. than", "B. as", "C. but", "D. and"], "cat": 1, "rightAnswer": 0}
+{"qid": 48,"imgQuestion": "", "txtQuestion": "I am _____ teacher.", "audioQuestion": "", "answers": ["A. the", "B. a", "C. an", "D. no article"], "cat": 1, "rightAnswer": 1}
+{"qid": 49,"imgQuestion": "", "txtQuestion": "My uncle is _____ good engineer.", "audioQuestion": "", "answers": ["A. the", "B. a", "C. an", "D. no article"], "cat": 1, "rightAnswer": 1}
+{"qid": 50,"imgQuestion": "", "txtQuestion": "That is _____ eraser.", "audioQuestion": "", "answers": ["A. the", "B. a", "C. an", "D. no article"], "cat": 1, "rightAnswer": 2}]

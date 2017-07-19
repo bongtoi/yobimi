@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--<color name="colorPrimary">#3F51B5</color>-->
+    <color name="colorPrimary">#70003A</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="tmp">#444</color>
+
+    <color name="chooseYourTest">#444</color>
+    <color name="bgTestButton">#EFEFEF</color>
+    <color name="bgQuestionContent">#F0F0F0</color>
+    <color name="colorDefault1">#FFFFFF</color>
+    <color name="colorDefault2">#000000</color>
+
+    <color name="bgCorrectAnswer">#f43434</color>
+    <color name="colorHighScore">#f700ff</color>
+
+    <color name="colorCheckAnswerCorect">#22ff00</color>
+    <color name="colorCheckAnswerMistake">#ff0000</color>
+    <color name="colorCheckAnswerSkip">#00ffff</color>
+
+    <color name="colorErrorResponse">#F700FF</color>
+</resources>

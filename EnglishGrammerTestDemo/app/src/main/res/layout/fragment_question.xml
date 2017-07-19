@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorDefault1">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Choose the sentence with the right word order"
+        android:textColor="@color/tmp"
+        android:background="@drawable/bg_question_content"
+        android:padding="10dp"
+        android:layout_margin="20dp"
+        android:textSize="17dp"
+        android:id="@+id/txtContent"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Tom alot of people invited"
+        android:textColor="@color/tmp"
+        android:background="@color/colorDefault1"
+        android:padding="15dp"
+        android:layout_marginTop="0dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginLeft="20dp"
+        android:textSize="17dp"
+        android:gravity="center"
+        android:id="@+id/txt_answer_a"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/bgQuestionContent"
+        android:layout_marginRight="20dp"
+        android:layout_marginLeft="20dp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="A lot of people Ton invited"
+        android:textColor="@color/tmp"
+        android:background="@color/colorDefault1"
+        android:padding="15dp"
+        android:layout_marginTop="0dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginLeft="20dp"
+        android:textSize="17dp"
+        android:gravity="center"
+        android:id="@+id/txt_answer_b"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/bgQuestionContent"
+        android:layout_marginRight="20dp"
+        android:layout_marginLeft="20dp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Tom invited a lot of people"
+        android:textColor="@color/tmp"
+        android:background="@color/colorDefault1"
+        android:padding="15dp"
+        android:layout_marginTop="0dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginLeft="20dp"
+        android:textSize="17dp"
+        android:gravity="center"
+        android:id="@+id/txt_answer_c"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/bgQuestionContent"
+        android:layout_marginRight="20dp"
+        android:layout_marginLeft="20dp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Tom invited of people a lot"
+        android:textColor="@color/tmp"
+        android:background="@color/colorDefault1"
+        android:padding="15dp"
+        android:layout_marginTop="0dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginLeft="20dp"
+        android:textSize="17dp"
+        android:gravity="center"
+        android:id="@+id/txt_answer_d"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/bgQuestionContent"
+        android:layout_marginRight="20dp"
+        android:layout_marginLeft="20dp"/>
+
+</LinearLayout>
